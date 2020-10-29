@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void HQ(numbers[6]){
+void HQ(int numbers[6]){
     int i = 1;
 
     read_six_numbers(numbers);

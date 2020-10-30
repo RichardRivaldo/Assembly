@@ -8,3 +8,5 @@ IF2130 Organisasi dan Arsitektur Komputer: GNU Debugger
 
 Distributed by:
 Sister 2020
+
+Finished.
